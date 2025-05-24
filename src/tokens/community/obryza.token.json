@@ -1,0 +1,15 @@
+{
+  "name": "Obryza",
+  "symbol": "OB",
+  "address": "9QcuYg1vAMNRBG9d1c3BpNUteKSKrJPvuHvxRPjtwiPN",
+  "decimals": 6,
+  "chainId": 101,
+  "logoURI": "https://obryza.com/OB/token/OB_200x200.png",
+  "tags": ["utility-token", "obryza"],
+  "extensions": {
+    "website": "https://obryza.com/OB/index",
+    "twitter": "https://x.com/Obryza_OB",
+    "whitepaper": "https://obryza.com/OB/whitepaper/ob_whitepaper",
+    "description": "OB is a universal performance-based reward token created by Obryza. It enables players to earn value through skill and strategy across integrated games."
+  }
+}
